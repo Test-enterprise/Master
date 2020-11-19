@@ -3,9 +3,9 @@ import cv2
 import matplotlib.pyplot as plt
 
 ## EJERCICIO 7 N. Jofré y A. Veas
-https://github.com/Test-enterprise/Master/tree/Rama-1
+
 ###################################################################################################
-### IMPORTANTE: Para visualizar todas las imágenes, cerrar cada una para poder ver la siguiente ###
+### IMPORTANTE: Para visualizar todas las imágenes, cerrar cada uno para poder ver la siguiente ###
 ###################################################################################################
 
 def mostrar(I, O):
